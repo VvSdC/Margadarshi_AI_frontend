@@ -13,11 +13,7 @@ import {
   ArrowRight,
   CheckCircle,
   XCircle,
-  Activity,
-  Briefcase,
-  Mail,
-  User,
-  Building
+  Activity
 } from 'lucide-react';
 
 // Main App Component
